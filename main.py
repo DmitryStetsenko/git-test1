@@ -1,13 +1,13 @@
 def func1():
-    pass
+    print("func1")
 
 
 def func2():
-    pass
+    print("func2")
 
 
 def func3():
-    pass
+    print("func3")
 
 
 print("Hello, world !!!")
