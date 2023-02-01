@@ -8,3 +8,6 @@ def func3():
     print("Khmurchyk func3")
 
 
+def func4):
+    print("Khmurchyk func4")
+
